@@ -1,0 +1,109 @@
+创建Vue项目
+# 全局安装 vue-cli
+$ npm install --global vue-cli
+# 创建一个基于 webpack 模板的新项目
+$ vue init webpack my-project
+# 安装依赖，走你
+$ cd my-project
+$ npm install
+
+
+进入项目文件中
+输入cnpm install 
+项目依赖配置完成
+按照完毕后 项目文件夹多一个node_modules/ 目录 
+输入npm run dev 
+项目启动
+npm run build  生成项目部署文件
+
+
+nuget 包地址 http://192.168.40.110:10008/nuget
+开发数据库地址: 192.168.40.110
+帐号:sa 密码:123456
+
+
+chencheng@ccayjh.com
+chencheng@gainhon.com;
+
+禅道地址: http://192.168.40.159/chandao
+帐号:XiaoJiaTao
+密码:JFxiaojiatao666
+
+
+企业邮箱 xiaojiatao@gainhon.com   Xjt123
+
+
+00000000-0000-0000-0000-000000000000
+
+code first命令:
+Install-Package Microsoft.VisualStudio.Web.CodeGeneration.Design
+Add-Migration 201904041451
+Update-Database
+回滚版本
+remove-migration
+
+netTestServer  帐号 administrator 密码 123456Abc
+
+
+文本框只能输入数字及禁止粘贴：
+   onkeyup="value=value.replace(/[^\d]/g,'')" onpaste="return false;" ng-pattern="/[^a-zA-Z]/"
+
+http://nettestserver:93/
+
+GitHub:
+xiaojiatao1107  xjtxjt110
+
+git命令：https://blog.csdn.net/youzhouliu/article/details/78952453
+
+git：
+用户名：xiaojiatao
+密码：xjt123456
+邮箱：xiaojiatao@gainhon.com
+
+1. git init
+2. git remote add origin http://gitlab.XXX.com/XXX/XXX.git 增加远程仓库
+3. git clone http://gitlab.XXX.com/XXX/XXX.git 克隆远程仓库到本地
+4. git pull origin develop 从develop 分支拉取代码
+5. 更改代码
+6. git add .,git commit -m ''
+7. 新建本地develop分支，并在这个分支 git push origin develop
+
+共享盘：\\192.168.40.159\js-技术部\yx-原型\
+js-技术部
+	账号：jishubu
+	密码：JFjishubu888
+
+jenkins帐号
+账号：xiaojiatao
+密码：Aa123456
+
+
+开发环境已修改，待构建至生产，测试环境
+
+
+一、本地数据库
+地址：192.168.40.79
+端口：3306
+用户：jpark_custom
+密码：123456Abc!
+
+二、测试数据库
+ 用户：testuser
+ ip地址：172.18.148.234 或者 10.10.10.1
+ 密码：JFwlkj2018test!
+ 数据库：all
+ 权限：all
+
+三、生产数据库
+接地址：jpark-public.mysql.rds.aliyuncs.com
+端口：5211
+   用户：net_manager
+   密码：JFdotnet2019*@!666
+
+vpn私钥：
+密码：xiaojiatao666
+
+
+生产日志：选择某个环境
+密码：jfjt88888888
+日志文件：2019-08-27-error.log
